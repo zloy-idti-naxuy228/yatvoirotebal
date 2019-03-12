@@ -4,6 +4,7 @@ from discord.ext.commands import Bot
 import asyncio
 import requests
 import random
+import youtube_dl
 
 bottoken = "snip"
 commandprefix = "#"
