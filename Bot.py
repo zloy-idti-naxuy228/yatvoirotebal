@@ -40,4 +40,7 @@ async def fuzic():
 	await bot.say('Эт Мудак Который Выебывается')
 
 
-bot.run('BOT_TOKEN')
+bot.run('NTU1MTI2MTYxMzIwMTgxNzYx.D2mrmw.jTNrKsbFS9pnhvNL3jW8jsdixw0')
+	
+	
+	
